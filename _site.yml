@@ -9,6 +9,8 @@ navbar:
       href: plotly.html
     - text: "Dashboard"
       href: dashboard.html
+    - text: "Shiny"
+      href: shiny.html
     - icon: fa-envelope fa-lg
       href: mailto:<yl4612@columbia.edu>
     - icon: fa-github fa-lg
