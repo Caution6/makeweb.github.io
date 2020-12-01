@@ -31,12 +31,10 @@ Column {.sidebar}
 -----------------------------------------------------------------------
 
 ```{r}
-borough_choices = nyc_airbnb %>% pull(neighbourhood_group) %>%  unique()
-
 selectInput(
   "borough_choice",
-  h3("Borough Choice"),
-  choices = borough_choices
+  "Borough Choice",
+  choices = c("Manhattan", "Brooklyn")
 )
 ```
 
