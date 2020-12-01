@@ -10,7 +10,7 @@ navbar:
     - text: "Dashboard"
       href: dashboard.html
     - text: "Shiny"
-      href: shiny.html
+      href: shiny.knit.md
     - icon: fa-envelope fa-lg
       href: mailto:<yl4612@columbia.edu>
     - icon: fa-github fa-lg
